@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension by HTML5 UP",
+    title: "Harriet and Josh",
     author: "Hunter Chang",
     description: "A Gatsby.js Starter based on Dimension by HTML5 UP"
   },
